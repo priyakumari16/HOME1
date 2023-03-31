@@ -1,0 +1,8 @@
+Python 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)] on win32
+
+['','C:\\Program Files\\Python37\\python37.zip',
+'C:\\Program Files\\Python37\\DLLs', 'C:\\Program Files\\Python37\\lib',
+'C:\\Program Files\\Python37', 'C:\\Program Files\\Python37\\lib\\site-packages']
+Dashboard installation fails when opensds_auth_strategy is set to noauth #419
+Uninstalll of SODA fails because it cannot find srm-toolchain installation #417
+Installation fails at Delfin installer with error "Could not get output from /usr/local/bin/virtualenv --help: AttributeError: module 'os' has no attribute 'PathLike'\n" #405
