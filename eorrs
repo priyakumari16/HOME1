@@ -1,0 +1,14 @@
+Issue 1:
+Issue Title: Login Issue after installing SODA
+Issue Description: This issue comes after installing SODA in the system and going to the browser to login to SODA using the provided correct credentials. After giving the correct credentials as input, it does not login, the login page just either gets stuck or gets freezed and we are not able to login to SODA even when we are giving the correct credentials.
+
+Issue 2:
+Issue Title: Error when creating a Test Storage Device
+Issue Description: This issue comes while trying to create a test storage device. One drawback there is that we need to enter all the required fields manually and even after filling the field details which is provided to us by SODA Foundation, it pops-up an error stating "Error: Test Storage device cannot be created/ Unable to create a Test Storage device"
+
+Issue 3:
+Issue Title: SODA Installation Error
+Issue Description: These are the errors that comes while installing SODA in the system. These errors will show up in the terminal in red while installing. Some common errors include:
+"Ansible not found"
+Moreover many such errors will come while installing gelato also.
+
